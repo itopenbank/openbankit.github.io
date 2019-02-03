@@ -1724,10 +1724,10 @@ iframe#bx_form_iframe_10 {
 
 	body {
 		background-color: #2c2f33;
-		background-image: url("/web/20180825230005im_/http://openbankit.com/assets/css/images/overlay.png"), -moz-linear-gradient(45deg, #3c92ca 10%, #2c2f33 90%);
-		background-image: url("/web/20180825230005im_/http://openbankit.com/assets/css/images/overlay.png"), -webkit-linear-gradient(45deg, #3c92ca 10%, #2c2f33 90%);
-		background-image: url("/web/20180825230005im_/http://openbankit.com/assets/css/images/overlay.png"), -ms-linear-gradient(45deg, #3c92ca 10%, #2c2f33 90%);
-		background-image: url(/web/20180825230005im_/http://openbankit.com/assets/css/images/overlay.png), linear-gradient(45deg, #3c92ca 10%, #2c2f33 90%);
+		background-image: url("https://openbankit.com/assets/css/images/overlay.png"), -moz-linear-gradient(45deg, #3c92ca 10%, #2c2f33 90%);
+		background-image: url("https://openbankit.com/assets/css/images/overlay.png"), -webkit-linear-gradient(45deg, #3c92ca 10%, #2c2f33 90%);
+		background-image: url("https://openbankit.com/assets/css/images/overlay.png"), -ms-linear-gradient(45deg, #3c92ca 10%, #2c2f33 90%);
+		background-image: url(https://openbankit.com/assets/css/images/overlay.png), linear-gradient(45deg, #3c92ca 10%, #2c2f33 90%);
 	}
 
 
@@ -1951,8 +1951,8 @@ iframe#bx_form_iframe_10 {
 		opacity: 0.9;
 	}
 	#technology .content.tech {
-		background: -webkit-linear-gradient(bottom, rgba(255, 255, 255, 0.98), rgba(255, 255, 255, 0.98)), url(/web/20180825230005im_/http://openbankit.com/images/tech-bg.svg);
-    background: linear-gradient(to top, rgba(255, 255, 255, 0.98), rgba(255, 255, 255, 0.98)), url(/web/20180825230005im_/http://openbankit.com/images/tech-bg.svg);
+		background: -webkit-linear-gradient(bottom, rgba(255, 255, 255, 0.98), rgba(255, 255, 255, 0.98)), url(https://openbankit.com/images/tech-bg.svg);
+    background: linear-gradient(to top, rgba(255, 255, 255, 0.98), rgba(255, 255, 255, 0.98)), url(https://openbankit.com/images/tech-bg.svg);
     background-repeat: no-repeat;
     background-position: center center;
 	}
